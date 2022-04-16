@@ -4,7 +4,6 @@
 <head>
 <meta charset="utf-8">
 
-<title>download站点</title>
 <link rel="icon" href="img/logo.webp" type="image/x-icon">
 <link rel="shortcut icon" href="img/logo.webp" type="image/x-icon">
 </head>
